@@ -35,5 +35,5 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mycartapp.git
-   cd mycartapp
+   git clone https://github.com/kameshmahadev/my-cart-app-router.git
+   cd my-cart-app-router
